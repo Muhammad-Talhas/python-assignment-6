@@ -4,5 +4,5 @@ class MathUtils:
         return a + b
 
 # Example usage
-result = MathUtils.add(5, 7)
+result = MathUtils.add(5,7)
 print("Sum:", result)

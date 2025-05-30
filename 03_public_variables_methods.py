@@ -5,7 +5,7 @@ class Car:
     def start(self):  # Public method
         print(f"The {self.brand} car is starting...")
 
-# Instantiate the class
+# Create an instance of the Car class
 my_car = Car("Toyota")
 
 # Access the public variable
